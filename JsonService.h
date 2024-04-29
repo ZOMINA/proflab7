@@ -4,6 +4,7 @@
 #include "Service.h"
 #include <iostream>
 #include <fstream>
+#include <vector>
 using nlohmann::json;
 class JsonService :public Service
 {
