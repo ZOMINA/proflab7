@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿  JsonService.cpp
   WeatherService.cpp
   Создание кода...
+=======
+﻿  XmlService.cpp
+>>>>>>> feature-xml
   WeatherService.vcxproj -> C:\Users\class\Desktop\WeatherService\x64\Debug\WeatherService.exe
